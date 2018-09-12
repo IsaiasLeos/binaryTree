@@ -6,3 +6,5 @@ We are also to draw the B-Tree in its correct order and understand it’s been d
 I must accept a variable and give the correct result. You might notice the pattern in all these methods, which is I check 
 if it’s a child manipulate accordingly otherwise loop through the parent nodes to make sure to go through all the children if needed.
 The concept for me was easy to understand stand and a tad difficult to implement into code.
+
+http://www.cs.utep.edu/ofuentes/cs2302/spring18/lab4.pdf
