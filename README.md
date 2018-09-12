@@ -7,4 +7,4 @@ I must accept a variable and give the correct result. You might notice the patte
 if it’s a child manipulate accordingly otherwise loop through the parent nodes to make sure to go through all the children if needed.
 The concept for me was easy to understand stand and a tad difficult to implement into code.
 
-http://www.cs.utep.edu/ofuentes/cs2302/spring18/lab4.pdf
+Lab in Question: http://www.cs.utep.edu/ofuentes/cs2302/spring18/lab4.pdf
